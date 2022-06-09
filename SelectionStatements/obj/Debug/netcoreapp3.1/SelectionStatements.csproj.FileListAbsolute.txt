@@ -1,0 +1,14 @@
+C:\Users\FeelGood\Desktop\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.exe
+C:\Users\FeelGood\Desktop\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.deps.json
+C:\Users\FeelGood\Desktop\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.json
+C:\Users\FeelGood\Desktop\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.dev.json
+C:\Users\FeelGood\Desktop\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.dll
+C:\Users\FeelGood\Desktop\repos\SelectionStatements\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.pdb
+C:\Users\FeelGood\Desktop\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csproj.AssemblyReference.cache
+C:\Users\FeelGood\Desktop\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FeelGood\Desktop\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfoInputs.cache
+C:\Users\FeelGood\Desktop\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfo.cs
+C:\Users\FeelGood\Desktop\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\FeelGood\Desktop\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.dll
+C:\Users\FeelGood\Desktop\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.pdb
+C:\Users\FeelGood\Desktop\repos\SelectionStatements\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.genruntimeconfig.cache
